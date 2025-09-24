@@ -35,13 +35,13 @@ El flujo del proyecto se divide en dos partes:
 ## 🖼️ Capturas  
 
 - Vista del terreno generado proceduralmente:  
-  ![Terreno](./terreno.png)  
+  ![Terreno](./Terrenos.png)  
 
 ---
 
 ## 👤 Autor  
 
-- [Tu Nombre](https://github.com/kitex03)  
+- [Enrique Morcillo Martínez](https://github.com/kitex03)  
 
 ---
 
